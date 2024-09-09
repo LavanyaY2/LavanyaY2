@@ -1,6 +1,13 @@
 ## Hi there 👋
 
+I'm Lavanya, I'm a third-year 💻Computer Engineering student at the University of Waterloo with an avid interest in full-stack development and all things data.
+
+GitHub Stats (just for fun):
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LavanyaY2)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LavanyaY2&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[<img align="left" alt="Lavanya Yadav | LinkedIn" width="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/>][https://www.linkedin.com/in/l-yadav/]
 
 
 <!--
